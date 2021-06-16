@@ -1,0 +1,14 @@
+h1{
+    color: rgb(165, 177, 173);
+    padding-top: 30px;
+    padding-bottom: 30px;
+
+}
+.formcad{
+    width: 600px;
+    height: 350px;
+    margin: auto;
+    border-radius: 50px;
+    background-image: linear-gradient(to left, #00f, #fff); 
+    padding: 20px;
+}
